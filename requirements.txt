@@ -1,0 +1,2 @@
+# Runtime dependencies for the QQ Gateway client.
+websocket-client>=1.8,<2

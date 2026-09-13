@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=QQ Robot
+Comment=Start Codex Remote Bridge
+Terminal=true
+Exec=bash -c "cd -- \"$(dirname -- \"$1\")\" && exec bash ./start-linux.sh" bash %k
